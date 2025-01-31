@@ -1,1 +1,1 @@
-https://bikesharingmugimabruri.streamlit.app
+https://share.streamlit.io/
