@@ -1,21 +1,22 @@
 # Dicoding Analisis Data - Bike Sharing Dataset
 
-**Setup Environment - Anaconda**
-
+## Setup Environment - Anaconda
+'''
 conda create --name main-ds python=3.12.8
 
 conda activate main-ds
 
 pip install -r requirements.txt
-
-**Setup Environment**
-
+'''
+## Setup Environment
+'''
 pip install -r requirements.txt
-
-**Cek Streamlit**
-
+'''
+## Streamlit check
+'''
 streamlit hello
-
-**Run steamlit app**
-
+'''
+## Run steamlit app
+'''
 streamlit run dashboard.py
+'''
