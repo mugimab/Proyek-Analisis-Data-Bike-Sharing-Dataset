@@ -1,5 +1,6 @@
-streamlit
-pandas
+Babel
 matplotlib
-seaborn
 numpy
+pandas
+seaborn
+streamlit
