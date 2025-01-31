@@ -6,7 +6,7 @@ conda create --name main-ds python=3.12.8
 
 conda activate main-ds
 
-pip install -r requirements.txt
+pip install -r requirements.txt 
 
 ## Setup Environment
 
